@@ -1,0 +1,1 @@
+ALTER TABLE `melting_batches` ADD `acided_at` integer;
